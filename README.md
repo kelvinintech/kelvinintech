@@ -1,6 +1,6 @@
 ### Hi there 
 
-<h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">IT & Cybersecurity Professional</a>☺</h1>
+<h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">IT, Cybersecurity Professional, YouTuber</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
