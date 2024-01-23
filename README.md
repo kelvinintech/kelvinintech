@@ -17,7 +17,7 @@
   -<b>Python</b>
 
    <ul>
-    <li><a href="https://github.com/kelvinintech/How-To-Fix-Pip-Is-Not-Recognized-As-An-Internal-Or-External-Command/new/main">How To Fix ‘Pip‘ Is Not Recognized As An Internal Or External Command</a></li>
+    <li><a href="https://discuss.python.org/t/pip-not-working/30102/2">How To Fix ‘Pip‘ Is Not Recognized As An Internal Or External Command</a></li>
   </ul>
   
   <b>Windows</b>
