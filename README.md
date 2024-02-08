@@ -29,7 +29,7 @@
     <li><a href="https://github.com/kelvinintech/How-to-Find-AppData-Folder-in-Windows-11">how to find appdata in windows 11</a></li>
   </ul>
   <ul> 
-      <li><a href="https://github.com/kelvinintech/SEC_ERROR_OCSP_FUTURE_RESPONSE/new/main">‘SEC_ERROR_OCSP_FUTURE_RESPONSE’ FIX </a></li>
+      <li><a href="https://github.com/kelvinintech/SEC_ERROR_OCSP_FUTURE_RESPONSE">‘SEC_ERROR_OCSP_FUTURE_RESPONSE’ FIX </a></li>
   </ul>
 
 
