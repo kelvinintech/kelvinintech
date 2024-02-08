@@ -11,7 +11,7 @@
 - <b>Microsoft Azure</b>
   - [Creating a VPN](https://github.com/kelvinintech/creating-a-VPN/blob/main/README.md)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/codeByKelvinn/configure-on-premises-active-directory-/blob/main/README.md)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codeByKelvinn/nsgs-and-inspecting-traffic-on-azure/blob/main/README.md)
+  - <!-- [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/codeByKelvinn/nsgs-and-inspecting-traffic-on-azure/blob/main/README.md) -->
   - <br />
 
   -<b>Python</b>
