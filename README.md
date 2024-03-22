@@ -43,7 +43,7 @@
    <b>Network+ Training</b>
 
    <ul>
-     <li>Wireshark Hacking Lab(coming soon)</li>
+     <li><a href="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers">Configuring and Maintaining DNS Servers</li>
   </ul>
 
 
