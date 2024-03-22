@@ -40,7 +40,7 @@
 
   --->
 
-   <b>Wireshark</b>
+   <b>Network+ Training</b>
 
    <ul>
      <li>Wireshark Hacking Lab(coming soon)</li>
