@@ -48,7 +48,7 @@
 
   --->
 
-   <b>Network+ Training</b>
+   <b>Networking</b>
 
    <ul>
      <li><a href="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers">Configuring and Maintaining DNS Servers</li>
