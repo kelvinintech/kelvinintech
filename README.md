@@ -19,7 +19,7 @@
 
    <ul>
     <li><a href="https://discuss.python.org/t/pip-not-working/30102/2">How To Fix ‘Pip‘ Is Not Recognized As An Internal Or External Command</a></li>
-     <li>Created a Keylogger(coming soon)</li>
+     <li>Created a Keylogger</li> <b>(coming soon)</b>
   </ul>
   
   <b>Windows</b>
