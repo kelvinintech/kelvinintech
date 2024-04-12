@@ -25,7 +25,7 @@
   <b>Windows</b>
 
     <ul>
-    <li><a href="https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools?tab=readme-ov-file">(IN PROGRESS)Understanding Windows Commland Line tools </a></li>
+    <li><a href="https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools?tab=readme-ov-file">Understanding Windows Commland Line tools </a></li> <b>(coming soon)</b>
   </ul>
   
 
