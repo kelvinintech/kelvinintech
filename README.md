@@ -1,5 +1,6 @@
 
-![1711206698746](https://github.com/kelvinintech/kelvinintech/assets/110644520/a580c4ea-64c9-4ff5-91ca-c0ecfa8b40d3)
+![1715371258100](https://github.com/kelvinintech/kelvinintech/assets/110644520/409654fd-3b2a-4911-aac2-86911aae6d86)
+
 
 ### Hey there 🙋🏽‍♂️
 
