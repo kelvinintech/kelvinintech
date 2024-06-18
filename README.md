@@ -6,6 +6,13 @@
 
 <h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">IT & Cybersecurity Professional, Programmer and YouTuber</a>☺</h1>
 
+ <b>Networking Experience: </b>
+
+   <ul>
+     <li><a href="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers">Configuring and Maintaining DNS Servers</li>
+  </ul>
+
+
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -20,13 +27,6 @@
 
    <ul>
     <li><a href="https://discuss.python.org/t/pip-not-working/30102/2">How To Fix ‘Pip‘ Is Not Recognized As An Internal Or External Command</a></li>
-     <li>Created a Keylogger</li> <b>(coming soon)</b>
-  </ul>
-  
-  <b>Windows</b>
-
-    <ul>
-    <li><a href="https://github.com/kelvinintech/Windows-Command-Line-Networking-Tools?tab=readme-ov-file">Understanding Windows Commland Line tools </a></li> <b>(coming soon)</b>
   </ul>
   
 
@@ -49,11 +49,7 @@
 
   --->
 
-   <b>Networking</b>
-
-   <ul>
-     <li><a href="https://github.com/kelvinintech/Configuring-and-Maintaining-DNS-Servers">Configuring and Maintaining DNS Servers</li>
-  </ul>
+  
 
 
   
