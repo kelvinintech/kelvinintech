@@ -1,9 +1,6 @@
 
-![1719782771916](https://github.com/kelvinintech/kelvinintech/assets/110644520/d67d86e1-e252-43a8-905e-1eeda9ab78db)
+### Hey there 🙋🏽‍♂️![LinkedIn Cover NEW Kelvin R  Tobias (2)](https://github.com/user-attachments/assets/44fa44ff-3aae-49f1-8011-89e5c0f99ca7)
 
-
-
-### Hey there 🙋🏽‍♂️
 
 <h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">IT & Cybersecurity Professional, Programmer and YouTuber</a>☺</h1>
 
