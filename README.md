@@ -2,7 +2,7 @@
 ### Hey there 🙋🏽‍♂️![LinkedIn Cover NEW Kelvin R  Tobias (2)](https://github.com/user-attachments/assets/44fa44ff-3aae-49f1-8011-89e5c0f99ca7)
 
 
-<h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">IT & Cybersecurity Professional, Programmer and YouTuber</a>☺</h1>
+<h1>Hi, I'm Kelvin, an <a href="https://www.linkedin.com/in/kelvin-r-tobias-211949219/">Content Creator, Web Developer, Programmer & IT Professional </a>☺</h1>
 
  <b>Networking Experience: </b>
 
